@@ -1,0 +1,13 @@
+{
+  "compilerOptions": {
+    "types": ["node", "express", "jest"],
+    "target": "ES2019",
+    "module": "CommonJS",
+    "esModuleInterop": true,
+    "outDir": "dist",
+    "rootDir": "src",
+    "strict": true
+  },
+  "include": ["src"]
+}
+  

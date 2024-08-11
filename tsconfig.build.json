@@ -1,0 +1,19 @@
+{
+  "compilerOptions": {
+    "types": ["node", "express"],
+    "target": "ES2019",
+    "module": "CommonJS",
+    "esModuleInterop": true,
+    "outDir": "dist",
+    "rootDir": "src",
+    "strict": true
+  },
+  "include": ["src"],
+  "exclude": [
+    "**/*.test.ts",
+    "**/*.spec.ts",
+    "**/mocks.ts",
+    "src/__mocks__/*",
+  ]
+}
+  
