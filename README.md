@@ -19,7 +19,6 @@ Incluímos configurações de ESLint e Prettier para garantir padrões de códig
 ## Estrutura do Projeto
 ```plaintext
 .
-└── __tests__           # Arquivos de testes
 └── src
     ├── domain          # Arquivos de domínio
     ├── infrastructure  # Implementações dos serviços de acordo com o fornecedor
